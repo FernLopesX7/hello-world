@@ -1,2 +1,2 @@
 # hello-world
-Inicializar este repositório com um README
+Initialize this repository with a README
